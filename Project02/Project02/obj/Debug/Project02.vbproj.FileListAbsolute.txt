@@ -1,0 +1,14 @@
+c:\users\devexpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.exe
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.pdb
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\Project02.xml
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.vbprojResolveAssemblyReference.cache
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.Form1.resources
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.Resources.resources
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.vbproj.GenerateResource.Cache
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.exe
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.xml
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.pdb
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\MySql.Data.dll
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\bin\Debug\MySql.Data.xml
+C:\Users\DevExpress\documents\visual studio 2015\Projects\Project02\Project02\obj\Debug\Project02.Form2.resources
